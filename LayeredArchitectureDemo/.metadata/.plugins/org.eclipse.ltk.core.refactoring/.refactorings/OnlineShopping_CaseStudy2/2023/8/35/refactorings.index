@@ -1,0 +1,11 @@
+1693288860117	Delete element
+1693296861843	Rename type 'adminController'
+1693296873679	Rename type 'customerController'
+1693296886009	Rename type 'cartDao'
+1693296917002	Rename type 'customerDao'
+1693296927271	Rename type 'productDao'
+1693296936321	Rename type 'walletDao'
+1693296960474	Rename type 'cartitem'
+1693296971436	Rename type 'customer'
+1693296981739	Rename type 'product'
+1693296993923	Rename type 'wallet_trans'

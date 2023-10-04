@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\java demos\LayeredArchitectureDemo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2668249231.index
+823716407.index
+198616386.index
+1389805873.index
+4052411846.index
+2132022511.index
+1794757466.index
